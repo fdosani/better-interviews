@@ -55,3 +55,11 @@ interview.
 I need your (the community at large) help with this project. Please feel free to
 submit issues, comments, PRs etc. The only way this works is through a
 collaborative effort.
+
+
+
+## TODO:
+
+- Build out site
+- Framework for interaction model
+- Gather /source standardize take home/small assignments.
