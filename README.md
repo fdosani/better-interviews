@@ -3,9 +3,9 @@ An Open source framework for conducting technical interview questions
 
 
 As someone who does hiring, I find the interview process is broken. So I'm
-hoping to do my part to help fix this. In this repo/site you will find a Open
+hoping to do my part to help fix this. In this repo/site you will find an open
 source framework for technical interviews which I hope anyone and everyone can
-use to conduct the dreaded technical interview ( white boarding / live coding).
+use to improve on the dreaded technical interview (white boarding / live coding).
 
 > Note: this is not going to be a perfect solution, but it is a start which
 I'm hoping will evolve overtime to be better, more inclusive, and less stressful.
@@ -36,7 +36,7 @@ What we should be maximizing is:
     the job and candidate
 * What is *relevant* to the actual job!
 
-**and most importantly their technical skills in a more accurate setting.**
+**and most importantly their technical skills in an accurate setting.**
 
 
 ## Potential Solution(s) and the Framework:
@@ -95,4 +95,4 @@ collaborative effort where everyone has a say.
 
 - Build out site
 - Framework for interaction model
-- Gather /source standardize take home/small assignments.
+- Gather/source standardize take home/small assignments.
