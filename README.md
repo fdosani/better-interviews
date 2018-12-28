@@ -1,4 +1,5 @@
 # better-interviews
+
 An Open source framework for conducting technical interview questions
 
 
@@ -13,8 +14,9 @@ I'm hoping will evolve overtime to be better, more inclusive, and less stressful
 
 ## Problem:
 The current state of technical (white boarding) interviews is broken.
-See: [THEY WHITEBOARDED ME](http://they.whiteboarded.me/interview_types/whiteboarding_and_live_coding.html)
-and this [The Mental Impact of Tech Interviews (YouTube)](https://www.youtube.com/watch?v=aIrKC41NwC0)
+See:
+- [THEY WHITEBOARDED ME](http://they.whiteboarded.me/interview_types/whiteboarding_and_live_coding.html)
+- [The Mental Impact of Tech Interviews (YouTube)](https://www.youtube.com/watch?v=aIrKC41NwC0)
 
 
 We need to find a better way to handle for the above problem where we minimize:
@@ -56,19 +58,24 @@ comfortable with. Again this is a work in progress! Please consider contributing
      on their own time and turn in for grading
 
 
-2. Complete a assignment (from a list of smallish problems):
+2. Complete an assignment (from a list of smallish problems):
    - Candidate would get this "homework" before their interview to complete.
    - They would submit their solution 1-2 hours before for review by the    
      interviewee. This allows for time to review and formulate some questions
      and suggestions in response.
-   - Interviewee would then asking probing questions about the
+   - Interviewer would then asking probing questions about the solution to get
+     a sense of the reasons for their design choices, thought process, and over
+     all structure.
+   - A final step might be to perform a small refactoring of the code to properly
+     verify the knowledge of the candidate, and get a sense of their working
+     style. This might be a pair-programming session.
 
 
 3. Their own personal project
    - TBD
 
 
-4. Living coding / white boarding
+4. Live coding / white boarding (else option)
    - TBD
 
 
