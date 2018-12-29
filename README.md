@@ -1,7 +1,6 @@
 # better-interviews
 
-An Open source framework for conducting technical interview questions
-
+An Open source framework for conducting technical interviews.
 
 As someone who does hiring, I find the interview process is broken. So I'm
 hoping to do my part to help fix this. In this repo/site you will find an open
