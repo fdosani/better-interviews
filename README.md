@@ -1,4 +1,5 @@
-# better-interviews
+Better Interviews
+-----------------
 
 An Open source framework for conducting technical interviews.
 
@@ -11,7 +12,7 @@ use to improve on the dreaded technical interview (white boarding / live coding)
 I'm hoping will evolve overtime to be better, more inclusive, and less stressful.
 
 
-## Problem:
+### Problem
 The current state of technical (white boarding) interviews is broken.
 See:
 - [THEY WHITEBOARDED ME](http://they.whiteboarded.me/interview_types/whiteboarding_and_live_coding.html)
@@ -40,9 +41,9 @@ What we should be maximizing is:
 **and most importantly their technical skills in an accurate setting.**
 
 
-## Potential Solution(s) and the Framework:
+### Potential Solution(s) and the Framework
 
-#### Choose your path
+##### Choose your path
 
 As a initial option the thought is you allow the candidate to pick from several
 options which they are comfortable with in terms of conducting their technical
@@ -78,7 +79,7 @@ comfortable with. Again this is a work in progress! Please consider contributing
    - TBD
 
 
-#### Additional framework thoughts:
+### Additional framework thoughts
 
 We should also lay out some sort of best practices for the engagement between
 parties.
@@ -91,14 +92,25 @@ parties.
   improve.
 
 
-## Contributing:
+### Generating this site
+
+For now the site is being generated with [`docsify`](https://docsify.js.org). You can install / setup it via the
+following:
+
+```bash
+# if you don't have node installed (macOS)
+brew install node
+
+# install docsify
+npm i docsify-cli
+
+# clone repo and serve up the pages
+git clone https://github.com/fdosani/better-interviews.git
+cd better-interviews
+docsify serve ./docs
+```
+
+### Contributing
 I need your (the community at large) help with this project. Please feel free to
 submit issues, comments, PRs etc. The only way this works is through a
 collaborative effort where everyone has a say.
-
-
-## TODO:
-
-- Build out site
-- Framework for interaction model
-- Gather/source standardize take home/small assignments.
