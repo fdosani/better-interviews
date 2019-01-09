@@ -1,9 +1,11 @@
 # Interviewing Options
 
-Understanding the various interviewing options to get a sense of how they are
-typically used, what is involved, pros, cons, and biases.
+Overview the most common interviewing options to get a sense of how they are
+typically used, what is: involved, pros, cons, and biases.
 
-### Whiteboarding
+
+
+## Whiteboarding
 
 Whiteboarding can be the use a of a physical whiteboard or a online code/sharing
 editor where a candidate is given a problem and expected to come up with a
@@ -42,10 +44,41 @@ questions typically of what you mind find on [leetcode](https://leetcode.com) or
 
 
 
+## Take-home tests (Homework, Challenges)
+
+Take-home tests are where a candidate is given an assignment to do on their own
+time and typically expected to return their completed assignment back in a set
+period time. this can be hours or days. Sometimes the results of the assignment
+become the topic of conversation during the on-site portion of the interview.
+
+#### Pros
+
+- Allows the candidate to work on their own time, space, environment setup, etc.
+- Candidate can use Google, and other online (legit) resources like they might
+  at a typical job
+- Can be done during non work hours allowing candidates more freedom
+- Less anxiety involved for candidate as no one is watching them
+- Certain types of tests might be conducive to automated testing to check
+  results and validity
+- Again this can be a cheap way to screen candidates as they don't need to come
+  on-site, and act as a stopper for those who are not super serious about
+  actually interviewing
+- Removes the power imbalance that can occur in whiteboard style interview.
+
+#### Cons
+
+- Possibility of candidates plagiarizing work
+- Can bias against people whom have family commitments (caregivers,
+  single parents, etc.) depending on the level of effort needed
+- Again can unintentionally discriminate based on age (favouring those whom
+  might have more free time and can iterate on better solutions)
+- Depending on the complexity of the assignment it may require time for someone
+  to grade and properly evaluate. Depending on the volume of candidates this
+  can be a huge problem.
 
 
 
-
+--------------------------------------------------------------------------------
 
 [1]: Need citation to scientific study on this (working under pressure and
      cognitive ability)
