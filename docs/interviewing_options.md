@@ -77,6 +77,56 @@ become the topic of conversation during the on-site portion of the interview.
   can be a huge problem.
 
 
+## Bring your own personal code or project
+
+Bringing your own personal code or projects is another method similar to a take
+type of test. The main difference here is that this is something the candidate
+has built vs being told to do. This could be a open source project which they
+have contributed to or maybe a smaller hobby type project. During the interview
+process
+
+#### Pros
+
+- Allows the candidate to work on their own time, space, environment setup, etc.
+- Can be done during non work hours allowing candidates more freedom
+- Less anxiety for the candidate
+- Removes the power imbalance that can occur in whiteboard style interview.
+- Shows the candidates passions outside their core work or job.
+
+#### Cons
+
+- Possibility of candidates plagiarizing work
+- Not everyone has hobby projects which they can show off
+- Again this could indirectly discriminate against some candidates who do not
+  have the time outside of work (family, children, etc.)
+- project may not be relevant to the job at hand therefore making it hard to
+  evaluate the candidates skill set
+
+
+
+## Automated coding challenge
+
+Typical websites which can ask a variety of coding question with "correct"
+answers. Can be many question or sometimes a single longer one. These sites will
+have a online editor (for the language of choice) and a timer. Sometimes the
+questions can be multiple choice, coding questions with a set of test cases
+which must pass, or combination of both.
+
+#### Pros
+
+- Allows the candidate to work on their own time, space, environment setup, etc.
+- Can be done during non work hours allowing candidates more freedom
+- Cheap and quick screening method.
+- Fully automated.
+
+#### Cons
+
+- Possibility of candidates plagiarizing work may still exist.
+- Again this could indirectly discriminate against some candidates who do not
+have the time outside of work (family, children, etc.)
+- Depending the questions being asked there is no feedback loop in realtime
+  where the candidate can get help if they are unclear about something.
+- Being timed could be stressful for some people.
 
 --------------------------------------------------------------------------------
 
