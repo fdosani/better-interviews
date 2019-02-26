@@ -12,7 +12,7 @@ editor where a candidate is given a problem and expected to come up with a
 solution within a specific timeframe, and normally think aloud their problem.
 
 Typically the problems candidates are given are algorithmic or puzzle type
-questions typically of what you mind find on [leetcode](https://leetcode.com)
+questions typically of what you might find on [leetcode](https://leetcode.com)
 or [hackerrank](https://www.hackerrank.com/)
 
 #### Pros
@@ -38,12 +38,19 @@ or [hackerrank](https://www.hackerrank.com/)
   deliver on actual business problems faced by businesses
 
 
-## Take-home tests (Homework, Challenges)
+## Take-home tests (Homework, Coding Challenges)
 
 Take-home tests are where a candidate is given an assignment to do on their own
 time and typically expected to return their completed assignment back in a set
 period time. this can be hours or days. Sometimes the results of the assignment
 become the topic of conversation during the on-site portion of the interview.
+
+The other type is a coding challenge, typical websites which can ask a variety
+of coding question with "correct" answers. Can be many question or sometimes
+a single longer one. These sites will have a online editor (for the language
+of choice) and a timer. Sometimes the questions can be multiple choice,
+coding questions with a set of test cases which must pass, or combination of
+both.
 
 #### Pros
 
@@ -57,7 +64,8 @@ become the topic of conversation during the on-site portion of the interview.
 - Again this can be a cheap way to screen candidates as they don't need to come
   on-site, and act as a stopper for those who are not super serious about
   actually interviewing
-- Removes the power imbalance that can occur in whiteboard style interview.
+- Can be a cheap and automated screening method.
+- Able to equally judges candidates ability to code in a certain time frame
 
 #### Cons
 
@@ -70,6 +78,9 @@ become the topic of conversation during the on-site portion of the interview.
 - Depending on the complexity of the assignment it may require time for someone
   to grade and properly evaluate. Depending on the volume of candidates this
   can be a huge problem.
+- Depending the questions being asked there is no feedback loop in realtime
+  where the candidate can get help if they are unclear about something.
+- Being timed could be stressful for some people.
 
 
 ## Bring your own personal code or project
@@ -100,33 +111,6 @@ process
 - project may not be relevant to the job at hand therefore making it hard to
   evaluate the candidates skill set
 
-
-
-## Automated coding challenge
-
-Typical websites which can ask a variety of coding question with "correct"
-answers. Can be many question or sometimes a single longer one. These sites will
-have a online editor (for the language of choice) and a timer. Sometimes the
-questions can be multiple choice, coding questions with a set of test cases
-which must pass, or combination of both.
-
-#### Pros
-
-- Allows the candidate to work on their own time, space, environment setup, etc.
-- Can be done during non work hours allowing candidates more freedom
-- Cheap and quick screening method.
-- Fully automated.
-- Able to equally judges candidates ability to code in a certain time frame
-
-#### Cons
-
-- Possibility of candidates plagiarizing work may still exist.
-- Again this could indirectly discriminate against some candidates who do not
-  have the time outside of work (family, children, caregiver, religious
-  commitments etc.)
-- Depending the questions being asked there is no feedback loop in realtime
-  where the candidate can get help if they are unclear about something.
-- Being timed could be stressful for some people.
 
 --------------------------------------------------------------------------------
 
