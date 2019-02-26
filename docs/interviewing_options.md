@@ -36,11 +36,6 @@ or [hackerrank](https://www.hackerrank.com/)
 - Many of the questions asked in these formats are not real world type problems
   and ultimately someone whom can invert a binary tree may not be able to
   deliver on actual business problems faced by businesses
-- If candidate has potentially memorized the solution (from another interview
-  or seen it posted online) this again may not be indicative of their true
-  knowledge.
-- Unfair power imbalance between candidates and interviewers
-
 
 
 ## Take-home tests (Homework, Challenges)
