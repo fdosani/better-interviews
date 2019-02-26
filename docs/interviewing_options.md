@@ -12,7 +12,8 @@ editor where a candidate is given a problem and expected to come up with a
 solution within a specific timeframe, and normally think aloud their problem.
 
 Typically the problems candidates are given are algorithmic or puzzle type
-questions typically of what you mind find on [leetcode](https://leetcode.com) or [hackerrank](https://www.hackerrank.com/)
+questions typically of what you mind find on [leetcode](https://leetcode.com)
+or [hackerrank](https://www.hackerrank.com/)
 
 #### Pros
 
@@ -28,8 +29,6 @@ questions typically of what you mind find on [leetcode](https://leetcode.com) or
 #### Cons
 
 - Can lead to a lot of false negatives
-- Can bias against people whom have family commitments (caregivers,
-  single parents, etc.)
 - Unintentionally discriminate based on age (favouring those whom might have
   time to study, or have recently graduated from academia)
 - Creates a pressure cooker situation where candidates make mistakes[1]
@@ -68,8 +67,9 @@ become the topic of conversation during the on-site portion of the interview.
 #### Cons
 
 - Possibility of candidates plagiarizing work
-- Can bias against people whom have family commitments (caregivers,
-  single parents, etc.) depending on the level of effort needed
+- This could indirectly discriminate against some candidates who do not
+  have the time outside of work (family, children, caregiver, religious
+  commitments etc.)
 - Again can unintentionally discriminate based on age (favouring those whom
   might have more free time and can iterate on better solutions)
 - Depending on the complexity of the assignment it may require time for someone
@@ -92,13 +92,16 @@ process
 - Less anxiety for the candidate
 - Removes the power imbalance that can occur in whiteboard style interview.
 - Shows the candidates passions outside their core work or job.
+- Can lessen burden on candidate as it utilizes existing work, and the only
+  effort might might involve reviewing the code if it has been a while.
 
 #### Cons
 
 - Possibility of candidates plagiarizing work
 - Not everyone has hobby projects which they can show off
 - Again this could indirectly discriminate against some candidates who do not
-  have the time outside of work (family, children, etc.)
+  have the time outside of work (family, children, caregiver, religious
+  commitments etc.)
 - project may not be relevant to the job at hand therefore making it hard to
   evaluate the candidates skill set
 
@@ -118,12 +121,14 @@ which must pass, or combination of both.
 - Can be done during non work hours allowing candidates more freedom
 - Cheap and quick screening method.
 - Fully automated.
+- Able to equally judges candidates ability to code in a certain time frame
 
 #### Cons
 
 - Possibility of candidates plagiarizing work may still exist.
 - Again this could indirectly discriminate against some candidates who do not
-have the time outside of work (family, children, etc.)
+  have the time outside of work (family, children, caregiver, religious
+  commitments etc.)
 - Depending the questions being asked there is no feedback loop in realtime
   where the candidate can get help if they are unclear about something.
 - Being timed could be stressful for some people.
