@@ -45,37 +45,41 @@ What we should be maximizing is:
 
 ##### Choose your path
 
-As a initial option the thought is you allow the candidate to pick from several
-options which they are comfortable with in terms of conducting their technical
-interview.
+It is important to allow candidates to "choose their own path," because
+different personalities will shine best in different scenarios. You want the
+candidate to be as comfortable as possible during their coding interview. While these option may not solve for all the potential issues it helps minimize
+some of the bias.
 
-> While these option may not solve for all the potential issues it helps minimize
-some of the bias and allow for candidates to select a path they are most
-comfortable with. Again this is a work in progress! Please consider contributing.
+> This is a work in progress. If you have additional ideas/formats, please
+consider contributing.
 
-1. Take home exam
-   - Company specific curated take home assignment which the candidate would do
-     on their own time and turn in for grading
+1. **Timed take home exam or exercise**, from a small list of problems. This is
+a company specific curated take home assignment which the candidate would do
+on their own time and turn in for grading/evaluation.
+  - Pros:
+    - It allows candidates to do the evaluation on their own time.
+    - If timed, if better puts candidates on equal footing.
+    - Interviewee can pre-formulate questions and suggestions in response to
+      what the candidate turned in.
+  - Cons:
+    - Candidates that are care takers (individuals with kids or those taking care
+      of parents or the like) or individuals that are commited to
+      extracurriculars, such as community sports, religion, or volunteerism are
+      at a disadvantage, because they have less time after hours focus to be
+      able to complete the exam.
+    - As an untimed test, this puts the previous category at a bigger
+      disadvantage. You can say, "this only takes two hours," but in reality
+      those with extra time after hours will put in more time and those who
+      can't won't be able to.
+
+2. **On-site coding test**.
 
 
-2. Complete an assignment (from a list of smallish problems):
-   - Candidate would get this "homework" before their interview to complete.
-   - They would submit their solution 1-2 hours before for review by the    
-     interviewee. This allows for time to review and formulate some questions
-     and suggestions in response.
-   - Interviewer would then asking probing questions about the solution to get
-     a sense of the reasons for their design choices, thought process, and over
-     all structure.
-   - A final step might be to perform a small refactoring of the code to properly
-     verify the knowledge of the candidate, and get a sense of their working
-     style. This might be a pair-programming session.
-
-
-3. Their own personal project
+3. **Present personal project**
    - TBD
 
 
-4. Live coding / white boarding (else option)
+4. **Live coding / white boarding**
    - TBD
 
 
